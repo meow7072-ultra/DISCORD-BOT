@@ -1,3 +1,5 @@
+<h1>before put the files!!!</h1>
+
 #1. Set Up Your Environment
 
 You'll need:
@@ -26,3 +28,5 @@ Create a .env file
 ```
 TOKEN=your-bot-token-here
 ```
+
+and after that put the files in your code
