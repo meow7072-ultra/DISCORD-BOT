@@ -29,4 +29,4 @@ Create a .env file
 TOKEN=your-bot-token-here
 ```
 
-and after that put the files in your code
+#<b>and after that put the files in your project file</b>
